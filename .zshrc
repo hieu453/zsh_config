@@ -117,3 +117,6 @@ ZSH_HIGHLIGHT_STYLES[precommand]=none
 
 # Zsh bindkey
 bindkey '^ ' autosuggest-accept
+
+# Auto suggestion text color
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=#757575'
